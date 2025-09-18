@@ -150,7 +150,7 @@
           <div class="desde-hasta">Septiembre 2024 – Actualidad</div>
           <div class="cargo">Administrativo Contable Fiscal</div>
           <div class="empresa">Excavaciones Pastor</div>
-          <p>Elaboración de la contabilidad, análisis financiero de resultados, colaboración en presentación de modelos fiscales, control de operaciones entre empresas vinculadas, conciliación bancaria y estudios de viabilidad para entidades financieras.</p>
+          <p>Elaboración de la contabilidad, análisis financiero de resultados, presentación de modelos fiscales, control de operaciones entre empresas vinculadas, conciliación bancaria y estudios de viabilidad para entidades financieras.</p>
         </div>
         <div class="job">
           <div class="desde-hasta">Octubre 2023 – Agosto 2024</div>
@@ -208,4 +208,3 @@
   </div>
 </body>
 </html>
-
